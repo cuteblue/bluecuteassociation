@@ -1,4 +1,4 @@
-## Welcome to cuteblue GitHub Pages欢迎来到蓝萌的博客
+## Welcome to Blue Cute Association GitHub Pages欢迎来到蓝萌社
 
 You can use the [editor on GitHub](https://github.com/laolangdage/bluecuteassociation/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
